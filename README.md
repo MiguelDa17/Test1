@@ -9,8 +9,8 @@ Este proyecto contiene pruebas automatizadas utilizando Cypress para pruebas de 
 ## Instalación
 1. Clona el repositorio:
    ```bash
-   git clone <repository_url>
-   cd <repository_folder>
+   git clone https://github.com/MiguelDa17/Test1.git
+   cd cypress-test
    ```
 2. Instala las dependencias:
    ```bash
